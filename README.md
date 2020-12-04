@@ -1,6 +1,6 @@
 # recipe-app-api
 
-Recipe API setup using Django, and Docker.
+Recipe API setup using Django, Docker and Travis CI.
 
 [ongoing project!]
 
