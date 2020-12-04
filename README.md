@@ -4,4 +4,4 @@ Recipe API setup using Django, and Docker.
 
 [ongoing project!]
 
-With thanks to [London App Dev tutorials]('https://londonappdeveloper.com/')
+With thanks to ["London App Dev tutorials"]('https://londonappdeveloper.com/')
